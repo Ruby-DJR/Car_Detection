@@ -1,3 +1,3 @@
 YOLO
 Moving object tracking recognition.
-car truck
+car truck tracking recognition.
